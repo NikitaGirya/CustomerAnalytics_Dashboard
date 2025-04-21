@@ -40,8 +40,3 @@
 </p>
 
 Легенда представляет собой краткое описание методологии расчёта и формулы метрик
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/89247751/228554849-be78d1a5-99a6-45a0-b42a-4e9a2c78aa4a.png" width=600 height=500 /> </br>
-  Схема данных
-</p>
